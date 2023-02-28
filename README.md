@@ -1,1 +1,5 @@
-A Chess Engine which uses an Algorithm called Interval Alpha Beta algorithm which is created by me by modifying the chess engine "Cosette" which made by @Tearth. (https://github.com/Tearth/Cosette). 
+I have created an algorithm which is called Interval Alpha Beta.
+
+The algorithm was tested on the chess engine "Cosette" by modifying the engine (Only 2 scripts are modified rest are the same with the original). 
+
+Chess engine "Cosette" is created by @Tearth. (https://github.com/Tearth/Cosette). 
